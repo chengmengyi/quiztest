@@ -1,0 +1,19 @@
+import 'package:flutter/services.dart';
+
+const color5362CA=Color(0xFF5362CA);
+const colorFFFFFF=Color(0xFFFFFFFF);
+const color505FC8=Color(0xFF505FC8);
+const color69BCA9=Color(0xFF69BCA9);
+const colorE7EBFE=Color(0xFFE7EBFE);
+const color3947AE=Color(0xFF3947AE);
+const colorED5601=Color(0xFFED5601);
+const colorA5D2D1=Color(0xFFA5D2D1);
+const color239EA9=Color(0xFF239EA9);
+const color000000=Color(0xFF000000);
+const color333333=Color(0xFF333333);
+const color3DC18A=Color(0xFF3DC18A);
+const colorF07B70=Color(0xFFF07B70);
+const color004FC6=Color(0xFF004FC6);
+const color0046B0=Color(0xFF0046B0);
+const color3473D1=Color(0xFF3473D1);
+const colorAD5AF2=Color(0xFFAD5AF2);
